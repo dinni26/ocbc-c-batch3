@@ -6,21 +6,21 @@ public class Nomor3
 	{
         int d;
             Console.Write("Enter Any Number = ");
-            int n = int.Parse(Console.In.ReadLine());
+            int a= int.Parse(Console.In.ReadLine());
             d = 1;
-            Console.Write(n + "! = ");
+            Console.Write(a+ "! = ");
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 1; i <= a; i++)
             {
                 d = d * i;
 
-                Console.Write(n - (i - 1));
-                if (i != n)
+                Console.Write(a- (i - 1));
+                if (i != a)
 
                     Console.Write("*");
             }
             Console.WriteLine();
-            Console.Write(n + "!");
+            Console.Write(a+ "!");
             Console.Write(" Hasilnya Adalah = ");
 
             Console.WriteLine(d);

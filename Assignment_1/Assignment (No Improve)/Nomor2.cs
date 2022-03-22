@@ -4,22 +4,22 @@ public class Nomor2
 {
     public static void Main(string [] args)
     {
-        int n;
+        int h;
 
         Console.Write("Enter the Range = ");
-        n = Convert.ToInt16(Console.ReadLine());
+        h = Convert.ToInt16(Console.ReadLine());
 
-        for (int i = 1; i <= n; i++)
+        for (int i = 1; i <= h; i++)
         {   
-            int p = 0;
-            for (int j = 1; j < n + i; j++)
+            int k = 0;
+            for (int j = 1; j < h + i; j++)
             {   
-                if(j > n-i)
+                if(j > h-i)
                 {
-                    if(j > n)
-                        Console.Write(--p);
+                    if(j > h)
+                        Console.Write(--k);
                     else
-                        Console.Write(++p);
+                        Console.Write(++k);
                 } else {
                     Console.Write(" ");
                 }
