@@ -1,0 +1,5 @@
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.csproj.AssemblyReference.cache
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.AssemblyInfoInputs.cache
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.AssemblyInfo.cs
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.csproj.CoreCompileInputs.cache
