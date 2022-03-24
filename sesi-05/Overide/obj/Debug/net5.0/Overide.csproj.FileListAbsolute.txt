@@ -1,0 +1,16 @@
+C:\Users\widya\Documents\C#\sesi-05\Overide\bin\Debug\net5.0\Overide.exe
+C:\Users\widya\Documents\C#\sesi-05\Overide\bin\Debug\net5.0\Overide.deps.json
+C:\Users\widya\Documents\C#\sesi-05\Overide\bin\Debug\net5.0\Overide.runtimeconfig.json
+C:\Users\widya\Documents\C#\sesi-05\Overide\bin\Debug\net5.0\Overide.runtimeconfig.dev.json
+C:\Users\widya\Documents\C#\sesi-05\Overide\bin\Debug\net5.0\Overide.dll
+C:\Users\widya\Documents\C#\sesi-05\Overide\bin\Debug\net5.0\ref\Overide.dll
+C:\Users\widya\Documents\C#\sesi-05\Overide\bin\Debug\net5.0\Overide.pdb
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\Overide.csproj.AssemblyReference.cache
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\Overide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\Overide.AssemblyInfoInputs.cache
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\Overide.AssemblyInfo.cs
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\Overide.csproj.CoreCompileInputs.cache
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\Overide.dll
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\ref\Overide.dll
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\Overide.pdb
+C:\Users\widya\Documents\C#\sesi-05\Overide\obj\Debug\net5.0\Overide.genruntimeconfig.cache

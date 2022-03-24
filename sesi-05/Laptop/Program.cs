@@ -13,7 +13,7 @@ namespace Laptop
             laptop1.ram=4;
             laptop1.memory=128;
 
-            Console.WriteLine("\n Merk Laptop adalah {0}, laptop1.merk");
+            Console.WriteLine("\n Merk Laptop adalah {0}", laptop1.merk);
             Console.WriteLine("Kapasitas Ram ada {0}", laptop1.ram);
             Console.WriteLine("Kapasitas Memory ada {0}", laptop1.memory);
 

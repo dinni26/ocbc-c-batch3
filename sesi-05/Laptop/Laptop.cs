@@ -2,8 +2,6 @@ using System;
 
 namespace Laptop
 {
-    public class Laptop
-    {
         class Laptop
         {
             public string merk;
@@ -26,4 +24,3 @@ namespace Laptop
             }
         }
     }
-}

@@ -3,3 +3,14 @@ C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.GeneratedMSBu
 C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.AssemblyInfoInputs.cache
 C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.AssemblyInfo.cs
 C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.csproj.CoreCompileInputs.cache
+C:\Users\widya\Documents\C#\sesi-05\Laptop\bin\Debug\net5.0\Laptop.exe
+C:\Users\widya\Documents\C#\sesi-05\Laptop\bin\Debug\net5.0\Laptop.deps.json
+C:\Users\widya\Documents\C#\sesi-05\Laptop\bin\Debug\net5.0\Laptop.runtimeconfig.json
+C:\Users\widya\Documents\C#\sesi-05\Laptop\bin\Debug\net5.0\Laptop.runtimeconfig.dev.json
+C:\Users\widya\Documents\C#\sesi-05\Laptop\bin\Debug\net5.0\Laptop.dll
+C:\Users\widya\Documents\C#\sesi-05\Laptop\bin\Debug\net5.0\ref\Laptop.dll
+C:\Users\widya\Documents\C#\sesi-05\Laptop\bin\Debug\net5.0\Laptop.pdb
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.dll
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\ref\Laptop.dll
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.pdb
+C:\Users\widya\Documents\C#\sesi-05\Laptop\obj\Debug\net5.0\Laptop.genruntimeconfig.cache
