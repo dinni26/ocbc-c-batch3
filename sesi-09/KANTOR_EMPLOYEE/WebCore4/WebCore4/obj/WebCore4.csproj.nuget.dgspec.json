@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\widya\\Documents\\C#\\sesi-09\\WebCore4\\WebCore4\\WebCore4.csproj": {}
+    "C:\\Users\\widya\\Documents\\C#\\sesi-09\\KANTOR_EMPLOYEE\\WebCore4\\WebCore4\\WebCore4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\widya\\Documents\\C#\\sesi-09\\WebCore4\\WebCore4\\WebCore4.csproj": {
+    "C:\\Users\\widya\\Documents\\C#\\sesi-09\\KANTOR_EMPLOYEE\\WebCore4\\WebCore4\\WebCore4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\widya\\Documents\\C#\\sesi-09\\WebCore4\\WebCore4\\WebCore4.csproj",
+        "projectUniqueName": "C:\\Users\\widya\\Documents\\C#\\sesi-09\\KANTOR_EMPLOYEE\\WebCore4\\WebCore4\\WebCore4.csproj",
         "projectName": "WebCore4",
-        "projectPath": "C:\\Users\\widya\\Documents\\C#\\sesi-09\\WebCore4\\WebCore4\\WebCore4.csproj",
+        "projectPath": "C:\\Users\\widya\\Documents\\C#\\sesi-09\\KANTOR_EMPLOYEE\\WebCore4\\WebCore4\\WebCore4.csproj",
         "packagesPath": "C:\\Users\\widya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\widya\\Documents\\C#\\sesi-09\\WebCore4\\WebCore4\\obj\\",
+        "outputPath": "C:\\Users\\widya\\Documents\\C#\\sesi-09\\KANTOR_EMPLOYEE\\WebCore4\\WebCore4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\widya\\AppData\\Roaming\\NuGet\\NuGet.Config",
